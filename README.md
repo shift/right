@@ -1,5 +1,7 @@
 # Deploy Day
 
+> 📍 Late Game · 10 decisions made
+
 You're staring at the deployment pipeline. 47 stages. Everything passed CI. Staging looks good. Canary checks are configured.
 
 It's 4:45pm. The deploy button waits.

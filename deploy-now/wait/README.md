@@ -1,5 +1,7 @@
 # The Long Minute
 
+> 📍 Late Game · 12 decisions made
+
 12 minutes. Canary passes.
 
 **✅ CANARY PASSED — ROLLING FORWARD**

@@ -1,4 +1,4 @@
-# 🏆 🏆 PRODUCTION
+# 🏆 YOU REACHED PRODUCTION
 
 The deploy held. The site stayed up. The pager stayed silent.
 

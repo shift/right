@@ -1,5 +1,7 @@
 # The Rollback Plan
 
+> 📍 Late Game · 11 decisions made
+
 Before deploying, the senior engineer asks: "What's the rollback plan?"
 
 The migration adds a column. The deploy changes three endpoints. If it fails, you need to revert code AND database. But the migration isn't reversible.

@@ -1,4 +1,4 @@
-# 🗓️ GAME OVER: The Friday Deploy
+# 💀 GAME OVER
 
 You pushed to production on a Friday at 5:47pm. By 6:12pm, the payment service was down. By midnight, three failed rollback attempts.
 

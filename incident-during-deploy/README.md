@@ -1,5 +1,7 @@
 # The Coincidence
 
+> 📍 Late Game · 14 decisions made
+
 Mid-deploy. Stage 23 of 47. An unrelated service goes down.
 
 Deploy running. Incident happening. Two things at once.

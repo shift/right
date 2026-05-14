@@ -1,4 +1,4 @@
-# 🤹 GAME OVER: The Multitasker
+# 💀 GAME OVER
 
 You can't do both. Nobody can.
 

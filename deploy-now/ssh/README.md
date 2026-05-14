@@ -1,4 +1,4 @@
-# 🖥️ GAME OVER: The SSH
+# 💀 GAME OVER
 
 You SSH'd into production during a deploy. You killed a process you thought was wrong. It was the deployment orchestrator.
 

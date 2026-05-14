@@ -1,5 +1,7 @@
 # The Feature Flag Dilemma
 
+> 📍 Late Game · 11 decisions made
+
 The feature is behind a flag. You can deploy without enabling. Safe. Incremental.
 
 But the CEO wants it live for the demo. If you deploy with the flag off, you can flip it during the demo. If something goes wrong, flip it off.

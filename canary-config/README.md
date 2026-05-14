@@ -1,5 +1,7 @@
 # The Canary Configuration
 
+> 📍 Late Game · 11 decisions made
+
 What percentage of traffic to route to the new version?
 
 1% is barely measurable. 5% catches most issues. 25% catches everything but affects a lot of users if it's wrong. 100% is not a canary — it's just a deploy with extra steps.

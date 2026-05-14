@@ -1,5 +1,7 @@
 # The Hotfix
 
+> 📍 Late Game · 14 decisions made
+
 Bug in production. Users affected. The fix is one line. You can see it clearly.
 
 But the process takes 4 hours. PR → Review → Staging → Canary → Production.

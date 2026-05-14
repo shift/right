@@ -1,5 +1,7 @@
 # The Dark Launch
 
+> 📍 Late Game · 11 decisions made
+
 You dark-launched. Code in production, only visible to internal users. Metrics healthy. No errors.
 
 Now: how to roll out to real users?

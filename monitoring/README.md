@@ -1,5 +1,7 @@
 # The Hour of Watching
 
+> 📍 Late Game · 13 decisions made
+
 One hour. Dashboards stable. Error budget healthy. Payment service: running. Database: not on fire. Migration: clean.
 
 Everything is green. Actually green.

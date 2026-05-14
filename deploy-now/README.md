@@ -1,5 +1,7 @@
 # The Deploy
 
+> 📍 Late Game · 11 decisions made
+
 You click deploy. The pipeline starts.
 
 Stage 1: Build — ✅

@@ -1,4 +1,4 @@
-# ⚠️ GAME OVER: The Raw Rollback
+# 💀 GAME OVER
 
 You ran a database rollback in production without testing. The migration was destructive — it dropped a column. The rollback tried to recreate it. All data in that column: gone.
 

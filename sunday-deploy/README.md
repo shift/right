@@ -1,5 +1,7 @@
 # Sunday Evening
 
+> 📍 Late Game · 15 decisions made
+
 Sunday. 7pm. Low traffic. You click deploy. No executives watching. No Slack noise.
 
 Stage 47 completes. Canary passes. Error rate: 0.2%. Normal.

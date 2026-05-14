@@ -1,4 +1,4 @@
-# ⚡ GAME OVER: The Direct Push
+# 💀 GAME OVER
 
 You pushed directly to production. Bypassed the pipeline. Skipped staging.
 
