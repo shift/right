@@ -24,6 +24,8 @@ The deployment was clean. The tests passed. The pager stayed silent.
 
 *🏆 Estimated play time: 45-90 minutes. There are multiple paths. Try again — different choices lead to different places.*
 
+*What did you learn? What would you do differently? Try again from the beginning with different choices.*
+
 ---
 
 *Thanks for playing. [Start over](https://github.com/shift/left)?*
