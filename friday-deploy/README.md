@@ -8,4 +8,8 @@ You pushed to production on a Friday at 5:47pm. By 6:12pm, the payment service w
 
 ---
 
+---
+
+*You've been fired. The startup died. The company lost your data. The pager won.*
+
 [🔄 Try again from the beginning](https://github.com/shift/left)

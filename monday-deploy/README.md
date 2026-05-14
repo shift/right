@@ -11,3 +11,5 @@ You're now in a meeting with the CTO and VP of Engineering explaining "risk mana
 - [Stand your ground — Monday is right](../sunday-deploy)
 - [Compromise — deploy Sunday evening](../sunday-deploy)
 - [Fine, deploy Friday](../friday-deploy)
+
+*3 choices. There is no going back.*

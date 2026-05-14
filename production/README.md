@@ -22,4 +22,9 @@ The deployment was clean. The tests passed. The pager stayed silent.
 
 ---
 
+*🏆 Estimated play time: 45-90 minutes. There are multiple paths. Try again — different choices lead to different places.*
+
+---
+
 *Thanks for playing. [Start over](https://github.com/shift/left)?*
+*115 rooms · 4 repos · 1 win · 29 deaths · 45-90 min*

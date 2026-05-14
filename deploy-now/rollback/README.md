@@ -9,3 +9,5 @@ Your manager: "I'd rather have a false alarm than a real incident. Good instinct
 ---
 
 - [Deploy Monday morning](../../sunday-deploy)
+
+*1 choices. There is no going back.*

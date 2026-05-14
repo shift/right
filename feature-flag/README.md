@@ -15,3 +15,5 @@ Unless "off" doesn't mean "off" for every user.
 - [Deploy with flag off, enable during demo](../deploy-now)
 - [Test the flag thoroughly before deploying](../sunday-deploy)
 - [Skip the flag, deploy directly](../friday-deploy)
+
+*3 choices. There is no going back.*

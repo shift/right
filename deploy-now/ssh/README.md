@@ -10,4 +10,8 @@ Split-brain deployment. 14 hours to fix.
 
 ---
 
+---
+
+*You've been fired. The startup died. The company lost your data. The pager won.*
+
 [🔄 Try again from the beginning](https://github.com/shift/left)

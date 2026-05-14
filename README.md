@@ -19,3 +19,5 @@ The CEO's Slack status: "👀 watching the pipeline."
 - [What's the rollback plan?](./rollback-test)
 - [Deploy behind a feature flag](./feature-flag)
 - [Dark-launch to internal users first](./dark-launch)
+
+*7 choices. There is no going back.*

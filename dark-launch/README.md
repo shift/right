@@ -12,3 +12,5 @@ Now: how to roll out to real users?
 
 - [Gradual: 5% → 25% → 50% → 100%](../monitoring)
 - [Flip to 100% — it tested fine internally](../deploy-now)
+
+*2 choices. There is no going back.*

@@ -12,3 +12,5 @@ Stage 47 completes. Canary passes. Error rate: 0.2%. Normal.
 
 - [Stay and monitor for an hour](../monitoring)
 - [Go home — it's stable](../monitoring)
+
+*2 choices. There is no going back.*

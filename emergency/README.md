@@ -10,3 +10,5 @@ You revert. The payment service recovers. But the revert wasn't clean — the da
 
 - [Write a rollback script, test it in staging](../)
 - [Run the rollback directly in production](./raw-rollback)
+
+*2 choices. There is no going back.*

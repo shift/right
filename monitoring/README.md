@@ -13,3 +13,5 @@ The CEO: "Nice work. Seriously."
 - [Go home. You earned this.](../production)
 - [Wait — there's a hotfix needed](../hotfix)
 - [An unrelated service just went down mid-deploy](../incident-during-deploy)
+
+*3 choices. There is no going back.*

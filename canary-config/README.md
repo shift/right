@@ -13,3 +13,5 @@ What percentage of traffic to route to the new version?
 - [5% canary, 30-minute observation](../deploy-now)
 - [25% canary, 15-minute observation](../deploy-now)
 - [Fine, 100% — the CEO wants it live](../deploy-now)
+
+*3 choices. There is no going back.*
