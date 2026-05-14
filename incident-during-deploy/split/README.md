@@ -11,4 +11,5 @@ Both failed.
 - [Pause everything, focus on one thing](../../sunday-deploy)
 - [Fix both simultaneously](./both)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

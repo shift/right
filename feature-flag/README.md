@@ -16,4 +16,5 @@ Unless "off" doesn't mean "off" for every user.
 - [Test the flag thoroughly before deploying](../sunday-deploy)
 - [Skip the flag, deploy directly](../friday-deploy)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

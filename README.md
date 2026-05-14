@@ -10,6 +10,8 @@ The CEO's Slack status: "👀 watching the pipeline."
 
 *Facebook's deployment process (before they were Meta): they deployed to production 3x per day. They could do this because every deploy went through canary analysis, automated rollback, and a "gatekeeper" system that would stop a deploy if error rates increased by even 0.1%. Speed requires safety. Safety enables speed.*
 
+*[About this game →](https://github.com/shift/left/blob/main/credits/README.md)*
+
 ---
 
 - [Deploy now, monitor closely](./deploy-now)
@@ -20,4 +22,5 @@ The CEO's Slack status: "👀 watching the pipeline."
 - [Deploy behind a feature flag](./feature-flag)
 - [Dark-launch to internal users first](./dark-launch)
 
-*7 choices. There is no going back.*
+**7 choices — there is no going back.**
+

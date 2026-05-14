@@ -15,4 +15,5 @@ Your manager: "Can you just push it directly?"
 - [Follow the process — it exists for a reason](../monitoring)
 - [Push the fix directly — users are waiting](./direct)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

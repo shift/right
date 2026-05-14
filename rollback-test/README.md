@@ -13,4 +13,5 @@ The migration adds a column. The deploy changes three endpoints. If it fails, yo
 - [Test the rollback in staging first](../deploy-now)
 - [It'll be fine — ship it](../deploy-now)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

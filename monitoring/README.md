@@ -14,4 +14,5 @@ The CEO: "Nice work. Seriously."
 - [Wait — there's a hotfix needed](../hotfix)
 - [An unrelated service just went down mid-deploy](../incident-during-deploy)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

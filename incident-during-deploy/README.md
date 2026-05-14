@@ -13,4 +13,5 @@ Deploy running. Incident happening. Two things at once.
 - [Pause the deploy, focus on the incident](../sunday-deploy)
 - [Let the deploy run, split attention](./split)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

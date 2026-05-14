@@ -15,4 +15,5 @@ The CEO: "👏👏👏"
 - [Stay and monitor for an hour](../../monitoring)
 - [Celebrate — we shipped!](../../monitoring)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

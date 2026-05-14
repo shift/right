@@ -17,4 +17,5 @@ The progress bar hasn't moved in 10 minutes.
 - [Rollback — something's wrong](./rollback)
 - [SSH into the server to check](./ssh)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

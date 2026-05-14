@@ -12,4 +12,5 @@ You're now in a meeting with the CTO and VP of Engineering explaining "risk mana
 - [Compromise — deploy Sunday evening](../sunday-deploy)
 - [Fine, deploy Friday](../friday-deploy)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+
