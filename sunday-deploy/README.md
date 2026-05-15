@@ -1,6 +1,6 @@
 # Sunday Evening
 
-> 📍 Late Game · 15 decisions made
+> 📍 Late Game · 16 decisions made
 
 Sunday. 7pm. Low traffic. You click deploy. No executives watching. No Slack noise.
 
@@ -10,8 +10,8 @@ Stage 47 completes. Canary passes. Error rate: 0.2%. Normal.
 
 ---
 
-- [Stay and monitor for an hour](../monitoring)
-- [Go home — it's stable](../monitoring)
+- [Stay and monitor for an hour](../monitoring/README.md)
+- [Go home — it's stable](../monitoring/README.md)
 
 **2 choices — there is no going back.**
 

@@ -1,6 +1,6 @@
 # The Coincidence
 
-> 📍 Late Game · 14 decisions made
+> 📍 Late Game · 15 decisions made
 
 Mid-deploy. Stage 23 of 47. An unrelated service goes down.
 
@@ -10,8 +10,8 @@ Deploy running. Incident happening. Two things at once.
 
 ---
 
-- [Pause the deploy, focus on the incident](../sunday-deploy)
-- [Let the deploy run, split attention](./split)
+- [Pause the deploy, focus on the incident](../sunday-deploy/README.md)
+- [Let the deploy run, split attention](./split/README.md)
 
 **2 choices — there is no going back.**
 

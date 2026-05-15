@@ -1,6 +1,6 @@
 # The Hotfix
 
-> 📍 Late Game · 14 decisions made
+> 📍 Late Game · 15 decisions made · ⚠️ Warning
 
 Bug in production. Users affected. The fix is one line. You can see it clearly.
 
@@ -12,8 +12,8 @@ Your manager: "Can you just push it directly?"
 
 ---
 
-- [Follow the process — it exists for a reason](../monitoring)
-- [Push the fix directly — users are waiting](./direct)
+- [Follow the process — it exists for a reason](../monitoring/README.md)
+- [Push the fix directly — users are waiting](./direct/README.md)
 
 **2 choices — there is no going back.**
 

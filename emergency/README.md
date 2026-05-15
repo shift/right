@@ -1,6 +1,6 @@
 # Emergency Deploy
 
-> 📍 Late Game · 7 decisions made
+> 📍 Late Game · 10 decisions made · 🔴 Danger
 
 You revert. The payment service recovers. But the revert wasn't clean — the database migration is still there.
 
@@ -8,8 +8,8 @@ You revert. The payment service recovers. But the revert wasn't clean — the da
 
 ---
 
-- [Write a rollback script, test it in staging](../)
-- [Run the rollback directly in production](./raw-rollback)
+- [Write a rollback script, test it in staging](../README.md)
+- [Run the rollback directly in production](./raw-rollback/README.md)
 
 **2 choices — there is no going back.**
 

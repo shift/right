@@ -1,6 +1,6 @@
 # The Deploy
 
-> 📍 Late Game · 11 decisions made
+> 📍 Late Game · 12 decisions made
 
 You click deploy. The pipeline starts.
 
@@ -13,9 +13,9 @@ The progress bar hasn't moved in 10 minutes.
 
 ---
 
-- [Wait. Be patient.](./wait)
-- [Rollback — something's wrong](./rollback)
-- [SSH into the server to check](./ssh)
+- [Wait. Be patient.](./wait/README.md)
+- [Rollback — something's wrong](./rollback/README.md)
+- [SSH into the server to check](./ssh/README.md)
 
 **3 choices — there is no going back.**
 

@@ -1,6 +1,6 @@
 # The Long Minute
 
-> 📍 Late Game · 12 decisions made
+> 📍 Late Game · 13 decisions made
 
 12 minutes. Canary passes.
 
@@ -12,8 +12,8 @@ The CEO: "👏👏👏"
 
 ---
 
-- [Stay and monitor for an hour](../../monitoring)
-- [Celebrate — we shipped!](../../monitoring)
+- [Stay and monitor for an hour](../../monitoring/README.md)
+- [Celebrate — we shipped!](../../monitoring/README.md)
 
 **2 choices — there is no going back.**
 

@@ -1,6 +1,6 @@
 # The Feature Flag Dilemma
 
-> 📍 Late Game · 11 decisions made
+> 📍 Late Game · 12 decisions made
 
 The feature is behind a flag. You can deploy without enabling. Safe. Incremental.
 
@@ -12,9 +12,9 @@ Unless "off" doesn't mean "off" for every user.
 
 ---
 
-- [Deploy with flag off, enable during demo](../deploy-now)
-- [Test the flag thoroughly before deploying](../sunday-deploy)
-- [Skip the flag, deploy directly](../friday-deploy)
+- [Deploy with flag off, enable during demo](../deploy-now/README.md)
+- [Test the flag thoroughly before deploying](../sunday-deploy/README.md)
+- [Skip the flag, deploy directly](../friday-deploy/README.md)
 
 **3 choices — there is no going back.**
 

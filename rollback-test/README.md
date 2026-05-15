@@ -1,6 +1,6 @@
 # The Rollback Plan
 
-> 📍 Late Game · 11 decisions made
+> 📍 Late Game · 12 decisions made
 
 Before deploying, the senior engineer asks: "What's the rollback plan?"
 
@@ -10,8 +10,8 @@ The migration adds a column. The deploy changes three endpoints. If it fails, yo
 
 ---
 
-- [Test the rollback in staging first](../deploy-now)
-- [It'll be fine — ship it](../deploy-now)
+- [Test the rollback in staging first](../deploy-now/README.md)
+- [It'll be fine — ship it](../deploy-now/README.md)
 
 **2 choices — there is no going back.**
 

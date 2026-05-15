@@ -1,6 +1,6 @@
 # The Dark Launch
 
-> 📍 Late Game · 11 decisions made
+> 📍 Late Game · 12 decisions made
 
 You dark-launched. Code in production, only visible to internal users. Metrics healthy. No errors.
 
@@ -10,8 +10,8 @@ Now: how to roll out to real users?
 
 ---
 
-- [Gradual: 5% → 25% → 50% → 100%](../monitoring)
-- [Flip to 100% — it tested fine internally](../deploy-now)
+- [Gradual: 5% → 25% → 50% → 100%](../monitoring/README.md)
+- [Flip to 100% — it tested fine internally](../deploy-now/README.md)
 
 **2 choices — there is no going back.**
 

@@ -1,6 +1,8 @@
 # Deploy Day
 
-> 📍 Late Game · 10 decisions made
+> 📍 Late Game · 11 decisions made
+
+You walk into the deployment bay. Screens everywhere. Red lines, green lines, dashboards nobody explained to you.
 
 You're staring at the deployment pipeline. 47 stages. Everything passed CI. Staging looks good. Canary checks are configured.
 
@@ -14,13 +16,13 @@ The CEO's Slack status: "👀 watching the pipeline."
 
 ---
 
-- [Deploy now, monitor closely](./deploy-now)
-- [Wait for Monday morning](./monday-deploy)
-- [Deploy on Friday, get it over with](./friday-deploy)
-- [Configure the canary first — what % of traffic?](./canary-config)
-- [What's the rollback plan?](./rollback-test)
-- [Deploy behind a feature flag](./feature-flag)
-- [Dark-launch to internal users first](./dark-launch)
+- [Deploy now, monitor closely](./deploy-now/README.md)
+- [Wait for Monday morning](./monday-deploy/README.md)
+- [Deploy on Friday, get it over with](./friday-deploy/README.md)
+- [Configure the canary first — what % of traffic?](./canary-config/README.md)
+- [What's the rollback plan?](./rollback-test/README.md)
+- [Deploy behind a feature flag](./feature-flag/README.md)
+- [Dark-launch to internal users first](./dark-launch/README.md)
 
-**7 choices — there is no going back.**
+*7 paths forward. Choose wisely — there is no going back.*
 

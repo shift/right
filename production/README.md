@@ -10,7 +10,7 @@ You laugh. It's not really a joke.
 
 ---
 
-**🏆 YOU REACHED PRODUCTION 🏆**
+**YOU REACHED PRODUCTION**
 
 The deployment was clean. The tests passed. The pager stayed silent.
 
@@ -24,9 +24,11 @@ The deployment was clean. The tests passed. The pager stayed silent.
 
 *🏆 Estimated play time: 45-90 minutes. There are multiple paths. Try again — different choices lead to different places.*
 
-*What did you learn? What would you do differently? Try again from the beginning with different choices.*
+*What did you learn? What would you do differently?*
+
+*📊 [Submit your run to the leaderboard](https://github.com/shift/left/issues/new?template=i-reached-production.yml) · [Start over](https://github.com/shift/left/blob/main/README.md)*
 
 ---
 
-*Thanks for playing. [Start over](https://github.com/shift/left)?*
-*117 rooms · 4 repos · 1 win · 29 deaths · 45-90 min*
+*Thanks for playing. [Start over](https://github.com/shift/left/blob/main/README.md)?*
+*120 rooms · 4 repos · 1 win · 29 deaths · 45-90 min*
